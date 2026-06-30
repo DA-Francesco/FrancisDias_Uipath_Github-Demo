@@ -5,7 +5,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[24.10.3]",
-    "UiPath.Testing.Activities": "[24.10.0]",
+    "UiPath.Testing.Activities": "[25.10.2]",
     "UiPath.UIAutomation.Activities": "[24.10.0]"
   },
   "webServices": [],
@@ -61,6 +61,42 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "GithubDemo\\TC02_GitHubNewPush.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "aac4567b-a8e0-46c1-8df7-ac28e4d1742f",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Syntethic Data\\TC_SynethicTestingData.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "a12467f9-981d-4ab1-9f80-2366fae1193b",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Syntethic Data\\RandomDate.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "b6374142-2699-48c7-8936-0e3973981fa1",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Syntethic Data\\RandomString.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "12c8a34d-615e-46f7-b1ed-ad046f56f68b",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Syntethic Data\\RandomValue.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "b6a00cb1-ee4e-4bc0-b5a8-1ff2ac70a2ac",
+        "dataVariationFilePath": ".variations\\LoginUsers_Login Users.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "PracticeAutomationApplication\\LoginFunctionality\\TC_TestDataVariationUsingIfStatement.xaml"
       }
     ],
     "saveToCloud": false

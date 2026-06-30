@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0gagG-1CJEaXbWmE79mbPw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://practicetestautomation.com/practice-test-login/" CVScreenId="8df9e1e1-1255-4a08-8137-a347cecab222" CvTextArea="641, 921, 197, 20" CvType="AnyWordGroup" DesignTimeRectangle="622, 903, 675, 57" DesignTimeScaleFactor="1.125" ElementType="Text" FullSelectorArgument="&lt;webctrl id='error' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='error' tag='DIV' type='' class='show' /&gt;" Guid="7a29302d-e1f1-491b-861c-cffdc8c3594f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Test Login | Practice Test Automation' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="916c518b3f26296376153be04975a2d1.png" xmlns="">032btrFldHkeqa6HD28G5cA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

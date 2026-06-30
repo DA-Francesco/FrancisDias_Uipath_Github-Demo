@@ -1,0 +1,16 @@
+﻿{
+  "Name": "loginSuccessful",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "IZKOPLppLEWJY2EkRGLklA",
+  "Reference": "WSOjhLOXYUGHwAPY8LSgOg/IZKOPLppLEWJY2EkRGLklA",
+  "ParentRef": "WSOjhLOXYUGHwAPY8LSgOg/Ou5-nxq9tEW2-d0d5cgiqA",
+  "Created": "2026-06-30T12:53:03.1140615Z",
+  "Updated": "2026-06-30T12:53:19.3821187Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

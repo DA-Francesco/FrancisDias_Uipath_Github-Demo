@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0lll4Fvy1Eipoe4MZWFDqA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://practicetestautomation.com/logged-in-successfully/" CVScreenId="46a6e155-04ac-49b0-88ff-2f42bafbf683" CvTextArea="717, 495, 481, 25" CvType="AnyWordGroup" DesignTimeRectangle="720, 494, 479, 24" DesignTimeScaleFactor="1.125" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='STRONG' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='STRONG' type='' class='' /&gt;" Guid="f2214777-be6d-4a76-9bf9-95a0a33703a4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Logged In Successfully | Practice Test Automation' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="de2ba1596b9902acdda5b2c94a3aa048.png" xmlns="">01qGLWdGOaky4COo46OI8Og</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

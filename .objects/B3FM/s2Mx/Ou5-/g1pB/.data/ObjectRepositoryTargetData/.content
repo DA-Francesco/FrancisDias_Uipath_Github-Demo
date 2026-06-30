@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JSjFQOjqiEad6Kxqwx63Tw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://practicetestautomation.com/practice-test-login/" CVScreenId="e4830031-fda2-4e49-a2be-a2b0e77b79f2" CvElementArea="619, 1012, 149, 65" CvTextArea="663, 1035, 58, 19" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="622, 1014, 144, 61" DesignTimeScaleFactor="1.125" ElementType="Button" FullSelectorArgument="&lt;webctrl id='submit' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl id='submit' tag='BUTTON' type='' class='btn' aaname='Submit' check:innerText='Submit' /&gt;" Guid="a3ddc8f6-06ab-469b-b735-b66223695e48" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Test Login | Practice Test Automation' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dbab029da4869b01d7c30666caab325d.png" xmlns="">0VWBubTd0akuaDKbx0j9tCQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

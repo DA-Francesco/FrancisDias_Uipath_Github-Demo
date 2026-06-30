@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MT5BZGEHokmz-U2qCvaU9g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://practicetestautomation.com/practice-test-login/" CVScreenId="e4830031-fda2-4e49-a2be-a2b0e77b79f2" CvElementArea="620, 805, 677, 57" CvType="InputBox" DesignTimeRectangle="622, 807, 675, 53" DesignTimeScaleFactor="1.125" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='username' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='username' tag='INPUT' type='text' class='' aaname='Username' /&gt;" Guid="7e89926f-a112-47f5-a47f-be16529d8b87" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Test Login | Practice Test Automation' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e4830031-fda2-4e49-a2be-a2b0e77b79f2" CvTextArea="620, 779, 84, 18" CvTextArgument="Username" CvType="Text" DesignTimeRectangle="622, 776, 81, 22" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Username' check:innerText='Username' /&gt;" Guid="935a96b0-7655-4e7e-b783-4594d6bd64ba" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3be137327efcd9e72796528db7283f30.png" xmlns="">014BOmz3CeUKBIVDHuD0UQg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

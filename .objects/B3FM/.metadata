@@ -1,0 +1,11 @@
+﻿{
+  "Name": "PracticeAutomationApplication",
+  "Type": "App",
+  "Id": "B3FMJKuXhUKlSuUX-o9uug",
+  "Reference": "WSOjhLOXYUGHwAPY8LSgOg/B3FMJKuXhUKlSuUX-o9uug",
+  "Created": "2026-06-30T12:48:20.7750358Z",
+  "Updated": "2026-06-30T12:48:20.7750358Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
